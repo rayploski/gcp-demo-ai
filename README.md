@@ -1,4 +1,4 @@
-# Deploy a production ready GenAI app in less than 30 minutes
+# Deploy a production ready GenAI app in less than 30 minutes with Terraform
 
 Here is a jump start solution of how to build a basic chatbot API that:
 
